@@ -1,0 +1,8 @@
+
+public abstract class BMW {
+	void commonFunc() {
+		System.out.println("Inside commiin func");
+	}
+
+	abstract void accelerate();
+}

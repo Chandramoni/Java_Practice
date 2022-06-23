@@ -1,0 +1,15 @@
+package com.tanu.interfaces;
+
+public class MyCircle implements Circle {
+
+	@Override
+	public void calculateArea() {
+		System.out.println(pi);
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

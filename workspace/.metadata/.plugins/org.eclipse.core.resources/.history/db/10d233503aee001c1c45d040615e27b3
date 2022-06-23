@@ -1,0 +1,9 @@
+package com.emc.entities;
+
+public class Venue extends EMbase {
+	private String description;
+	private String streetAddress;
+	private String city;
+	private String state;
+	private String pincode;
+}

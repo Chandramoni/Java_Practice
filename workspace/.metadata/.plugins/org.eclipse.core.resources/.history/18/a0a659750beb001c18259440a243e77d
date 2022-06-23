@@ -1,0 +1,8 @@
+
+public class NonStaticMembersDemo {
+	int num;
+
+	NonStaticMembersDemo() {
+		System.out.println("Inside the constructpr");
+	}
+}

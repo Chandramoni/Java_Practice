@@ -1,0 +1,5 @@
+package com.tanu.interfaces;
+
+public interface CircleTwo {
+
+}

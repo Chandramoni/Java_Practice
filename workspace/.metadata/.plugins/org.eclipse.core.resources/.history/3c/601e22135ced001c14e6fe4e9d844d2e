@@ -1,0 +1,11 @@
+
+public class MacBookPro extends MacBook {
+	@Override
+	void start() {
+		System.out.println("Inside macbook pro start emthid");
+	}
+
+	void shutdown() {
+		System.out.println("Inside macbook pro shutdown method");
+	}
+}

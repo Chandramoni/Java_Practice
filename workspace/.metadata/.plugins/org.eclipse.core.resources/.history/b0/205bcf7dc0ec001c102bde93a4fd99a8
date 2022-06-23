@@ -1,0 +1,10 @@
+package com.tanu.inheritence;
+
+public class Developer extends Employee{
+
+	public Developer(int id, String name, String dept, double salary) {
+		super(id, name, dept, salary);
+		// TODO Auto-generated constructor stub
+	}
+
+}

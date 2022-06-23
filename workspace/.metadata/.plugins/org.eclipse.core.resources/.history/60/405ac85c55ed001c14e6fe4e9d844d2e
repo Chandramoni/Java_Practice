@@ -1,0 +1,16 @@
+package com.tanu.interfaces;
+
+public class MyCircle implements Circle {
+
+	@Override
+	public void calculateArea() {
+		// TODO Auto-generated method stub
+
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

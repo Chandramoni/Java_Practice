@@ -1,0 +1,13 @@
+
+public class Demo {
+	static Demo x;
+	static {
+		System.out.println(Demo.x);
+		Demo.x = new Demo();
+
+	}
+
+	public static void main(String[] args) {
+		System.out.println(Demo.x);
+	}
+}

@@ -1,0 +1,10 @@
+
+public class HMNotebook extends HP {
+
+	@Override
+	public void click() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

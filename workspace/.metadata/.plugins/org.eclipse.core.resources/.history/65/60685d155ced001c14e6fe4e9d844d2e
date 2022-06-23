@@ -1,0 +1,14 @@
+import RuntimePoly.MacBook;
+
+public class Test {
+
+	public static void main(String[] args) {
+		MacBook m1 = new MacbookAir();
+		MacBook m2 = new MacBookPro();
+		m1.start();
+		m1.shutdown();
+		m2.start();
+		m2.shutdown();
+	}
+
+}
